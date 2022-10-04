@@ -23,6 +23,7 @@ knitr::opts_chunk$set(
 [![CRAN downloads](https://cranlogs.r-pkg.org/badges/grand-total/datazoom.amazonia?color=blue)](https://cran.r-project.org/package=datazoom.amazonia)
 [![CRAN downloads](https://cranlogs.r-pkg.org/badges/datazoom.amazonia?color=lightgrey)](https://cran.r-project.org/package=datazoom.amazonia)
 [![Languages](https://img.shields.io/github/languages/count/datazoompuc/datazoom.amazonia?style=plastic)
+[![Commits](https://img.shields.io/github/commit-activity/y/datazoompuc/datazoom.amazonia)
 [![Open Issues](https://img.shields.io/github/issues-raw/datazoompuc/datazoom.amazonia)
 [![Closed Issues](https://img.shields.io/github/issues-closed-raw/datazoompuc/datazoom.amazonia)
 <!-- badges: end -->
